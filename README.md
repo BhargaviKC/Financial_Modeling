@@ -10,7 +10,7 @@ Using econometric techniques such as fixed effects models, multivariate regressi
 Project Structure
 fatalities_analysis- Examines whether beer tax affects vehicle fatalities using state and year fixed effects models.
 debt_ratio_analysis - Explores the impact of profitability on firm leverage using panel data regressions.
-data/ → Contains datasets: Fatalities (AER package) & debt_ratio.csv (firm financials).
+Contains datasets: Fatalities (AER package) & debt_ratio.csv (firm financials).
 
 Key Findings
 1️) Impact of Beer Tax on Vehicle Fatalities
