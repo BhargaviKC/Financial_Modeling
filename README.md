@@ -8,10 +8,10 @@ This project applies regression analysis in R to study the relationship between 
 Using econometric techniques such as fixed effects models, multivariate regression, and significance testing, we analyze how these factors influence policy and corporate finance decisions.
 
 Project Structure
-fatalities_analysis.R → Examines whether beer tax affects vehicle fatalities using state and year fixed effects models.
-debt_ratio_analysis.R → Explores the impact of profitability on firm leverage using panel data regressions.
+fatalities_analysis- Examines whether beer tax affects vehicle fatalities using state and year fixed effects models.
+debt_ratio_analysis - Explores the impact of profitability on firm leverage using panel data regressions.
 data/ → Contains datasets: Fatalities (AER package) & debt_ratio.csv (firm financials).
-README.md → Overview of project, methodology, key findings, and regression outputs.
+
 Key Findings
 1️) Impact of Beer Tax on Vehicle Fatalities
 Initial simple regression showed that beer tax had no significant impact on fatalities.
