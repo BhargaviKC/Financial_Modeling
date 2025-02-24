@@ -26,10 +26,10 @@ When including firm and year fixed effects, the relationship remained negative a
 - Conclusion: Firm size and industry leverage increase debt usage, while high profitability and market-to-book ratios reduce leverage.
 
 Regression Models Used
-✔ Simple OLS Regression
-✔ Multivariate Regression with Controls
-✔ State & Year Fixed Effects Models
-✔ Firm & Year Fixed Effects for Panel Data
+- Simple OLS Regression
+- Multivariate Regression with Controls
+- State & Year Fixed Effects Models
+- Firm & Year Fixed Effects for Panel Data
 
 Key Libraries Used: AER, lfe, stargazer, dplyr
 
